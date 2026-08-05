@@ -102,7 +102,6 @@ void main()
 ===v13===
 #version 310 es
       //MTeaR
-
       #define UE_EXT_shader_framebuffer_fetch 1
 
       #ifdef GL_EXT_gpu_shader5
