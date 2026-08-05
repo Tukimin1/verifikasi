@@ -131,7 +131,7 @@ void main()
 
       #define INTERFACE_LOCATION(Pos) layout(location=Pos)
 
-      #define INTERFACE_BLOCK(Pos, Interp, Modifiers, Semantic, PreType, PostType) 
+      #define INTERFACE_BLOCK(Pos, Interp, Modifiers, Semantic, PreType, PostType) \
       layout(location=Pos) Modifiers Semantic { PreType PostType; }
 
       INTERFACE_BLOCK(0, smooth, in, TEXCOORD10, highp vec4, Data) in_TEXCOORD10;
