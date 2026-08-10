@@ -10,9 +10,5 @@ f1ceb15f3df19e92
 38dc2b64e9f1b3e3
 #WHENEVER
 359a7a02ef01565d
-#phonix
-17385f05c2974d6c@
 #Yasser Mohammed
 cb130577b0ca6f0f
-#عباس العراقي
-316d2b774f4d9be8@
